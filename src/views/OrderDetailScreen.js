@@ -1,7 +1,7 @@
 import React from "react";
 import Sidebar from "./../components/sidebar";
 import Header from "./../components/Header";
-import OrderDetailMain from "../components/orders/OrderDetailMain";
+import OrderDetailMain from "../components/orders/OrderDetailmain";
 import { useSelector } from "react-redux";
 import Loading from "../components/LoadingError/Loading";
 import Message from "../components/LoadingError/Error";
